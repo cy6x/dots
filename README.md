@@ -1,1 +1,3 @@
-<pre># dotfiles</pre>
+```
+# dotfiles
+```
