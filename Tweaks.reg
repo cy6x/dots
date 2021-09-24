@@ -17,7 +17,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
 "NoLockScreen"=dword:00000001
 
-; Fix 7-Zip associations
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.001]
 @="Архив .001"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.7z]
@@ -89,7 +88,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.zip]
 @="Архив .zip"
 
-; Fix qBittorrent associations
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\qBittorrent]
 @="Торрент-файл"
 "FriendlyTypeName"="Торрент-файл"
