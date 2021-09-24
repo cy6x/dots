@@ -8,105 +8,71 @@ Windows Registry Editor Version 5.00
 ; 7-Zip
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.001]
 @="Архив .001"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.7z]
 @="Архив .7z"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.arj]
 @="Архив .arj"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.bz2]
 @="Архив .bz2"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.bzip2]
 @="Архив .bzip2"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.cab]
 @="Архив .cab"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.cpio]
 @="Архив .cpio"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.deb]
 @="Архив .deb"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.dmg]
 @="Архив .dmg"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.fat]
 @="Архив .fat"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.gz]
 @="Архив .gz"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.gzip]
 @="Архив .gzip"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.hfs]
 @="Архив .hfs"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.iso]
 @="Архив .iso"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.lha]
 @="Архив .lha"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.lzh]
 @="Архив .lzh"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.lzma]
 @="Архив .lzma"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.ntfs]
 @="Архив .ntfs"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.rar]
 @="Архив .rar"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.rpm]
 @="Архив .rpm"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.squashfs]
 @="Архив .squashfs"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.swm]
 @="Архив .swm"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.tar]
 @="Архив .tar"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.taz]
 @="Архив .taz"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.tbz]
 @="Архив .tbz"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.tbz2]
 @="Архив .tbz2"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.tgz]
 @="Архив .tgz"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.tpz]
 @="Архив .tpz"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.txz]
 @="Архив .txz"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.vhd]
 @="Архив .vhd"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.wim]
 @="Архив .wim"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.xar]
 @="Архив .xar"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.xz]
 @="Архив .xz"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.z]
 @="Архив .z"
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.zip]
 @="Архив .zip"
