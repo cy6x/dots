@@ -1,7 +1,7 @@
 ```
 Display.Driver
 NVI2
-PhysX```
+PhysX
 EULA.txt
 ListDevices.txt
 setup.cfg
