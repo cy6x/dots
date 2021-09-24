@@ -1,3 +1,3 @@
 ```
-# winfiles
+# dotfiles
 ```
