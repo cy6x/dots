@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Classes\CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}]
 "System.IsPinnedtoNameSpaceTree"=dword:00000000
 
-; Disable thumbnails & Thumbs.db
+; Disable thumbnails and Thumbs.db
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
 "IconsOnly"=dword:00000001
 "DisableThumbnailCache"=dword:00000001
