@@ -17,7 +17,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
 "NoLockScreen"=dword:00000001
 
-;; Fix associations
 
 ; qBittorrent
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\qBittorrent]
