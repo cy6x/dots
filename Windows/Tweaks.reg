@@ -19,11 +19,6 @@ Windows Registry Editor Version 5.00
 
 ;
 
-; qBittorrent
-[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\qBittorrent]
-@="Торрент-файл"
-"FriendlyTypeName"="Торрент-файл"
-
 ; 7-Zip
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.001]
 @="Архив .001"
@@ -95,3 +90,8 @@ Windows Registry Editor Version 5.00
 @="Архив .z"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip.zip]
 @="Архив .zip"
+
+; qBittorrent
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\qBittorrent]
+@="Торрент-файл"
+"FriendlyTypeName"="Торрент-файл"
